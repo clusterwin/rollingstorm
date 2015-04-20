@@ -1,0 +1,9 @@
+/Users/AlexWin/test/apache-storm-0.9.4/examples/storm-starter/test/jvm/storm/starter/tools/NthLastModifiedTimeTrackerTest.java
+/Users/AlexWin/test/apache-storm-0.9.4/examples/storm-starter/test/jvm/storm/starter/tools/RankableObjectWithFieldsTest.java
+/Users/AlexWin/test/apache-storm-0.9.4/examples/storm-starter/test/jvm/storm/starter/bolt/RollingCountBoltTest.java
+/Users/AlexWin/test/apache-storm-0.9.4/examples/storm-starter/test/jvm/storm/starter/bolt/IntermediateRankingsBoltTest.java
+/Users/AlexWin/test/apache-storm-0.9.4/examples/storm-starter/test/jvm/storm/starter/tools/SlidingWindowCounterTest.java
+/Users/AlexWin/test/apache-storm-0.9.4/examples/storm-starter/test/jvm/storm/starter/tools/SlotBasedCounterTest.java
+/Users/AlexWin/test/apache-storm-0.9.4/examples/storm-starter/test/jvm/storm/starter/tools/RankingsTest.java
+/Users/AlexWin/test/apache-storm-0.9.4/examples/storm-starter/test/jvm/storm/starter/bolt/TotalRankingsBoltTest.java
+/Users/AlexWin/test/apache-storm-0.9.4/examples/storm-starter/test/jvm/storm/starter/tools/MockTupleHelpers.java

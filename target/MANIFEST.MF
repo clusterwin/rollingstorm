@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: storm-starter
+Implementation-Version: 0.11.0-SNAPSHOT
+Built-By: AlexWin
+Specification-Title: storm-starter
+Implementation-Vendor-Id: org.apache.storm
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.7.0_79
+Specification-Version: 0.11.0-SNAPSHOT
+
