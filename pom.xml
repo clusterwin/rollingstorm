@@ -20,16 +20,15 @@
   <version>1.0</version>
 
   <groupId>org.apache.storm</groupId>
-  <artifactId>storm-starter</artifactId>
+  <artifactId>rollingstorm</artifactId>
   <packaging>jar</packaging>
-
-  <name>storm-starter</name>
-
+  <name>rollingstorm</name>
 
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
+      <version>4.11</version>
       <scope>test</scope>
     </dependency>
     <dependency>
@@ -42,6 +41,7 @@
       <groupId>org.mockito</groupId>
       <artifactId>mockito-all</artifactId>
       <scope>test</scope>
+      <version>1.9.5</version>
     </dependency>
     <dependency>
       <groupId>org.easytesting</groupId>
@@ -61,13 +61,6 @@
      <version>3.0.3</version>
     </dependency>
     <dependency>
-      <groupId>org.apache.storm</groupId>
-      <artifactId>storm</artifactId>
-      <version>0.9.1-incubating</version>
-      <!-- keep storm out of the jar-with-dependencies -->
-      <scope>provided</scope>
-    </dependency>
-    <dependency>
       <groupId>commons-collections</groupId>
       <artifactId>commons-collections</artifactId>
       <version>3.2.1</version>
@@ -75,6 +68,7 @@
     <dependency>
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
+      <version>18.0</version>
     </dependency>
     <dependency>
       <groupId>org.apache.kafka</groupId>
@@ -90,6 +84,16 @@
           <artifactId>log4j</artifactId>
         </exclusion>
       </exclusions>
+    </dependency>
+    <dependency>
+      <groupId>log4j</groupId>
+      <artifactId>log4j</artifactId>
+      <version>1.2.17</version>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.storm</groupId>
+      <artifactId>storm-core</artifactId>
+      <version>0.9.4</version>
     </dependency>
   </dependencies>
 
